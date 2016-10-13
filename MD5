@@ -1,0 +1,13 @@
+704f121193acc3f4c9bf74420f312110 *DESCRIPTION
+c4267361b72d094eab078dafff2d9f64 *NAMESPACE
+31cda2d629e4c8733be1b769a2b1074e *NEWS
+1e8b37de0b7e1c44a3a8041ae7a595e2 *R/LMregression.r
+3dd96f23f7dc7a3dac0a1c00badf6e77 *R/diagnostics.R
+0602d5bfe495f73559f47e19ee5c4d5c *R/envcpt.R
+b528828b7d1965de3cc492c10a71596b *man/AIC.Rd
+f358d8226ae43c1523d008df9238b417 *man/envcpt-package.Rd
+6eb3033b9cc4e3e914df236e425efde8 *man/envcpt.Rd
+a3c829e8e94207d71370383a30462053 *man/plot.envcpt.Rd
+90ac68137b294bcc03dffc219b6e30c7 *tests/testthat.R
+68396b05d6879611cbc4d960b723b4c7 *tests/testthat/test-examples.R
+d957ee506b22d4c0e78064c6f8129cb8 *tests/testthat/test-functions.R

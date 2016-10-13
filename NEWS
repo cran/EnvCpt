@@ -1,0 +1,13 @@
+Version 0.1.1
+=============
+Changes to previous version
+
+* Did corrections for CRAN submission.
+* Corrected plot(.,type='aic') to do the correct axis drawing when yaxt is specified.
+* Added man page for the package.
+
+Version 0.1: Original
+
+Rebecca Killick
+Lancaster University
+www.lancs.ac.uk/~killick
