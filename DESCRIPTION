@@ -2,8 +2,8 @@ Package: EnvCpt
 Type: Package
 Title: Detection of Structural Changes in Climate and Environment Time
         Series
-Version: 1.1.1
-Date: 2018-09-13
+Version: 1.1.2
+Date: 2020-06-21
 Authors@R: c(person("Rebecca", "Killick", role=c("aut","cre"),email="r.killick@lancs.ac.uk"),
 	person("Claudie", "Beaulieu", role="aut"), person("Simon", "Taylor", role="aut"),person("Harjit","Hullait",role="aut"))
 Maintainer: Rebecca Killick <r.killick@lancs.ac.uk>
@@ -14,11 +14,11 @@ Depends: R(>= 3.3), changepoint(>= 2.2.2), grDevices, MASS, methods,
 Suggests: testthat
 License: GPL
 LazyLoad: yes
-Packaged: 2018-09-13 13:07:08 UTC; killick
+Packaged: 2020-06-20 22:08:43 UTC; killick
 NeedsCompilation: yes
 Author: Rebecca Killick [aut, cre],
   Claudie Beaulieu [aut],
   Simon Taylor [aut],
   Harjit Hullait [aut]
 Repository: CRAN
-Date/Publication: 2018-09-13 14:50:17 UTC
+Date/Publication: 2020-06-21 04:10:03 UTC
